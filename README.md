@@ -1,2 +1,5 @@
 # DSCP
-Data Science Capstone Project
+
+## Editing the file
+
+It is a markdown file in this repository for Data Science Capstone Project
